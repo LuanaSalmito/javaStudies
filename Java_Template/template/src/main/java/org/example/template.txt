@@ -1,0 +1,7 @@
+File -> New -> project -> ajeitar o nome e localização -> ajeitar JDK (colocar o 19) -> gerar
+-> Ver se está pedindo para selecionar o JDK (selecionar o 19 de novo)
+
+Criar pacote/pasta = package
+
+Alt + Insert = construtores/getters/setters (atalho)
+

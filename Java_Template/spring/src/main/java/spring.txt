@@ -1,0 +1,4 @@
+psql -U open_user -h localhost -p 5432 -d banco + senha
+
+\dt = listar tabelas
+
